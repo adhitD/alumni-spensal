@@ -29,14 +29,14 @@ const Footer = () => {
               >
                 <FaInstagram />
               </a>
-              <a 
+              {/* <a 
                 href="#" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 aria-label="YouTube KKN SMPN 1 Limboto"
               >
                 <FaYoutube />
-              </a>
+              </a> */}
             </div>
           </div>
         </div>
