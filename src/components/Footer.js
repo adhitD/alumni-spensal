@@ -29,14 +29,7 @@ const Footer = () => {
               >
                 <FaInstagram />
               </a>
-              {/* <a 
-                href="#" 
-                target="_blank" 
-                rel="noopener noreferrer"
-                aria-label="YouTube KKN SMPN 1 Limboto"
-              >
-                <FaYoutube />
-              </a> */}
+              
             </div>
           </div>
         </div>
