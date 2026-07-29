@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
-// import { FaPlay, FaSpinner } from 'react-icons/fa';
+import { FaPlay } from 'react-icons/fa';
 
 const VideoSection = () => {
   const [isLoading, setIsLoading] = useState(true);
