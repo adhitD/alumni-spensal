@@ -51,11 +51,11 @@ const VideoSection = () => {
           >
             <p>
               Video perpisahan ini merupakan rangkuman momen-momen indah selama kami 
-              melaksanakan KKN di SMPN 1 Limboto. Terima kasih kepada seluruh guru, 
+              melaksanakan PPL di SMPN 1 Limboto. Terima kasih kepada seluruh guru, 
               staf, dan siswa-siswi yang telah menerima kami dengan hangat.
             </p>
             <p>
-              Meskipun masa KKN telah berakhir, kenangan dan pelajaran yang kami 
+              Meskipun masa PPL telah berakhir, kenangan dan pelajaran yang kami 
               dapatkan akan selalu terkenang. Semoga ilmu yang kami bagikan dapat 
               bermanfaat untuk kemajuan SMPN 1 Limboto.
             </p>
@@ -125,7 +125,7 @@ const VideoSection = () => {
                     fontSize: '0.9rem',
                     marginTop: '8px',
                   }}>
-                    Kenangan KKN SMPN 1 Limboto
+                    Kenangan PPL SMPN 1 Limboto
                   </p>
                 </motion.div>
               )}
@@ -307,7 +307,7 @@ const VideoSection = () => {
                 Kami datang untuk mengabdi, namun justru kamilah yang banyak belajar. 
                 Sampai jumpa di lain waktu, tetap semangat dan teruslah berkarya!"
               </p>
-              <p className="message-signature">- Tim KKN 2023/2024</p>
+              <p className="message-signature">- Tim PPL 2025/2026</p>
             </div>
           </motion.div>
         </div>

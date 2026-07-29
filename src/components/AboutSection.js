@@ -33,7 +33,7 @@ const AboutSection = () => {
             transition={{ duration: 0.6, delay: 0.2 }}
           >
             <p>
-              Kami adalah mahasiswa Kuliah Kerja Nyata (KKN) dari Universitas Negeri Gorontalo 
+              Kami adalah mahasiswa PPL dari Universitas Negeri Gorontalo 
               yang telah melaksanakan program pengabdian masyarakat di SMPN 1 Limboto. 
               Selama 4 Bulan, kami berdedikasi untuk memberikan kontribusi positif dalam 
               pengembangan pendidikan dan pemberdayaan masyarakat di lingkungan sekolah.

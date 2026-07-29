@@ -25,7 +25,7 @@ const HeroSection = () => {
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 1, delay: 2.8 }}
           >
-            Alumni KKN
+            Alumni UNG Mengajar
           </motion.h1>
           <motion.h2 
             className="hero-subtitle"

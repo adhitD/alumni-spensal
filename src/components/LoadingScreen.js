@@ -25,7 +25,7 @@ const LoadingScreen = () => {
             animate={{ scale: 1, rotate: 0 }}
             transition={{ duration: 0.8, type: "spring" }}
           >
-            <h1>KKN SMPN 1 LIMBOTO</h1>
+            <h1>UNG Mengajar SMPN 1 LIMBOTO</h1>
             <motion.div
               className="loading-bar"
               initial={{ width: 0 }}

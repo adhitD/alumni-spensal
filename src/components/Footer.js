@@ -7,13 +7,13 @@ const Footer = () => {
       <div className="container">
         <div className="footer-content">
           <div className="footer-section">
-            <h3>KKN SMPN 1 Limboto</h3>
+            <h3>UNG Mengajar SMPN 1 Limboto</h3>
             <p>Mengabdi untuk Negeri, Mendidik dengan Hati</p>
           </div>
           
           <div className="footer-section">
             <h4>Kontak Kami</h4>
-            <p><FaEnvelope /> kkn.smpn1limboto@gmail.com</p>
+            <p><FaEnvelope /> ungmengajarsmpn1limboto@gmail.com</p>
             <p>Universitas Negeri Gorontalo</p>
           </div>
           
@@ -43,7 +43,7 @@ const Footer = () => {
         
         <div className="footer-bottom">
           <p>
-            © 2026 KKN SMPN 1 Limboto. Dibuat dengan 
+            © 2026 UNG Mengajar SMPN 1 Limboto. Dibuat dengan 
             <FaHeart className="heart-icon" /> oleh Tim KKN
           </p>
         </div>

@@ -35,7 +35,7 @@ const GallerySection = () => {
         >
           <h2>Galeri Kegiatan</h2>
           <div className="section-divider"></div>
-          <p>Momen-momen berharga selama KKN di SMPN 1 Limboto</p>
+          <p>Momen-momen berharga selama PPL di SMPN 1 Limboto</p>
         </motion.div>
 
         <div className="gallery-grid">
